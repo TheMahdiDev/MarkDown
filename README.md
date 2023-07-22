@@ -1,11 +1,11 @@
 # MarkDown
-Learn MarkDown language with github 
+Learning MarkDown language
 
 ---
 
 # Markdown Cheat Sheet
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+Thanks for visiting my github !
 
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It canâ€™t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
@@ -18,6 +18,9 @@ These are the elements outlined in John Gruberâ€™s original design document
 # H1
 ## H2
 ### H3
+#### H4
+##### H5
+###### H6
 
 ### Bold
 
